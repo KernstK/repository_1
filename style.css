@@ -1,0 +1,16 @@
+
+.shadow{
+    box-shadow: 5px 5px 5px rgb(121, 119, 119);
+}
+td{
+    border-bottom: 1px solid black;
+}
+table{
+    width: 500px;
+}
+.t2{
+    margin-left: 60px;
+}
+.ancher{
+    text-align: center;
+}
